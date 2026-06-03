@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"C:\\\\Users\\\\jllopez_sprout\\\\Downloads\\\\rev-cal\\\\index.html\")",
+      "Bash(Measure-Object -Line)"
+    ]
+  }
+}
